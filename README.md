@@ -21,7 +21,7 @@
 
 ## About The Project
 ![Software][software-screenshot]
-The project implements Selenium Python framework in order to conduct UI and Functional (System) based testing
+The project implements Selenium Python framework, using Page Object Model (POM) design pattern, in order to conduct UI and Functional (System) based testing
 on any test environment owned by our client. 
 
 Using this project, the QA team will be responsible for:
@@ -45,21 +45,21 @@ The following frameworks/libraries are used to bootstrap this project.
 Here gives you instructions on setting up your project locally.
 
 1. Clone the repository 
-   ```sh
+   ````
    git clone https://github.com/Amanimal/selenium-py.git
-   ```
+   ````
 2. Create a virtual environment inside this project, using terminal
-   ```sh
+   ````
    python -m venv env
-   ```
+   ````
 3. Activate the virtual environment, using terminal
-   ```sh
+   ````
    ./env/Scripts/activate
-   ```
+   ````
 4. Install packages, using terminal
-   ```sh
+   ````
    pip install -r requirements.txt
-   ```
+   ````
 5. Ensure the project contains the following directories/files. If not, create:
    
    a. ```\reports``` directory, where generated reports are stored for all 
@@ -75,7 +75,7 @@ Use the information below to learn how to run this project.
 Lets take ```test_login_page.py``` as an example:
 
 1. Run each test: By clicking run ```▶``` beside a function name
-   ```sh
+   ````
    def test_001_logo_and_title(self, setup):
       self.logger.info("************Test_001_Login_Page************")
       self.logger.info("************Verify Logo and Title************")
@@ -83,20 +83,20 @@ Lets take ```test_login_page.py``` as an example:
       self.driver.get(self.base_url)
       self.login = LoginPage(self.driver)
       ...
-   ```
+   ````
 2. Run a range of tests: By clicking run ```▶``` beside the class name
-   ```sh
+   ````
    class Test001LoginPage:
       base_url = ReadConfig.get_application_url()
       logger = LogGen.loggen()
       ...
-   ```
+   ````
    #### Note: Specify which browser to run each test or a range of tests:
    
    Open the ```conftest.py``` file on Windows,
 
    Chrome browser:
-   ```sh
+   ````
    ...
    if browser == 'chrome':
       # ------ Headless Chrome ------
@@ -106,9 +106,9 @@ Lets take ```test_login_page.py``` as an example:
       # ------ Chrome ------
       # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
    ...
-   ```
+   ````
    Edge browser:
-   ```sh
+   ````
    ...
    elif browser == 'edge':
       # ------ Headless Edge ------
@@ -118,9 +118,9 @@ Lets take ```test_login_page.py``` as an example:
       # ------ Edge ------
       # driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
    ...
-   ```
+   ````
    Firefox browser:
-   ```sh
+   ````
    ...
    elif browser == 'firefox':
       # ------ Headless Firefox ------
@@ -130,9 +130,9 @@ Lets take ```test_login_page.py``` as an example:
       # ------ Firefox ------
       # driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
    ...
-   ```
+   ````
    On macOS, Safari browser:
-   ```sh
+   ````
    ...
    elif browser == 'safari':
       # ------ Safari ------
@@ -141,30 +141,31 @@ Lets take ```test_login_page.py``` as an example:
       # https://www.selenium.dev/documentation/webdriver/getting_started/open_browser/#desktop
       driver = webdriver.Safari()
    ...
-   ```
+   ````
 
 #### Option 2: Open the ```TestSuit.py``` file
 
 On Windows:
 
 1. Run all tests: By clicking run ```▶```
-   ```sh
+   ````
    if __name__ == '__main__':
-      browsers = ["chrome", "edge"]
+      browsers = ["chrome", "edge", "firefox"]
       ...
-   ```
+   ````
 On macOS:
 1. Enable safari driver, using terminal
-   ```sh
+   ````
    safaridriver --enable
-   ```
+   ````
 2. Run all tests: By clicking run ```▶```
-   ```sh
+   ````
    if __name__ == '__main__':
-      browsers = ["chrome", "edge", 'safari']
+      browsers = ["chrome", "edge", "firefox", 'safari']
       ...
-   ```
-This will run all tests inside ```test_cases``` directory, on all browsers specified
+   ````
+This will run all tests inside ```test_cases``` directory, on all browsers specified.
+
 Happy Coding!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
