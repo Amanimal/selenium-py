@@ -1,4 +1,4 @@
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
   </ol>
-</details>
+</details> -->
 
 ## About The Project
 ![Software][software-screenshot]
