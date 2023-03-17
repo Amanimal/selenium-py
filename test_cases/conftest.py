@@ -78,7 +78,7 @@ def setup(browser):
 # ######################pytest html report ###########################
 # it hooks for adding environment info to html report
 def pytest_configure(config):
-    config._metadata['Project Name'] = 'Selenium-Python-PageObjectModel'
+    config._metadata['Project Name'] = 'Selenium - Python - Page Object Model'
     config._metadata['Software Name'] = 'OrangeHRM'
     config._metadata['Tester'] = 'QA'
 
