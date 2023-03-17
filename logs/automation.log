@@ -1,0 +1,371 @@
+Mar 17 2023 05:31:59 PM: INFO: xdist worker is: gw2
+Mar 17 2023 05:31:59 PM: INFO: xdist worker is: gw0
+Mar 17 2023 05:31:59 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:31:59 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:31:59 PM: INFO: xdist worker is: gw1
+Mar 17 2023 05:31:59 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:31:59 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+Mar 17 2023 05:31:59 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+Mar 17 2023 05:31:59 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+Mar 17 2023 05:32:00 PM: INFO: Driver [C:\Users\amans\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+Mar 17 2023 05:32:00 PM: INFO: Driver [C:\Users\amans\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+Mar 17 2023 05:32:00 PM: INFO: Driver [C:\Users\amans\.wdm\gw2\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+Mar 17 2023 05:32:03 PM: INFO: ************Test_003_Dashboard_Page************
+Mar 17 2023 05:32:03 PM: INFO: ************Validate Dashboard Page************
+Mar 17 2023 05:32:03 PM: INFO: ************Test_002_Side_Navbar************
+Mar 17 2023 05:32:03 PM: INFO: ************Validate Side_Navbar************
+Mar 17 2023 05:32:03 PM: INFO: ************Test_001_Dashboard_Header************
+Mar 17 2023 05:32:03 PM: INFO: ************Validate Dashboard Header************
+Mar 17 2023 05:32:33 PM: INFO: Time at work text is correctly displayed. Text: 'Time at Work'
+Mar 17 2023 05:32:33 PM: INFO: My actions text is correctly displayed. Text: 'My Actions'
+Mar 17 2023 05:32:34 PM: INFO: Quick launch text is correctly displayed. Text: 'Quick Launch'
+Mar 17 2023 05:32:34 PM: INFO: Buzz latest posts text is correctly displayed. Text: 'Buzz Latest Posts'
+Mar 17 2023 05:32:34 PM: INFO: Dashboard header text is correctly displayed. Text: 'Homepage'
+Mar 17 2023 05:32:34 PM: INFO: Employees on leave today text is correctly displayed. Text: 'Employees on Leave Today'
+Mar 17 2023 05:32:34 PM: INFO: Profile section is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Employees distribution by sub unit text is correctly displayed. Text: 'Employee Distribution by Sub Unit'
+Mar 17 2023 05:32:34 PM: INFO: Profile pic is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Employees distribution by location text is correctly displayed. Text: 'Employee Distribution by Location'
+Mar 17 2023 05:32:34 PM: INFO: Profile name is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Side navbar is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar toggle is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar banner is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar search icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar search field is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar admin icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar admin text is correctly displayed. Text: 'Admin'
+Mar 17 2023 05:32:34 PM: INFO: Navbar pim icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar pim text is correctly displayed. Text: 'PIM'
+Mar 17 2023 05:32:34 PM: INFO: Navbar leave icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar leave text is correctly displayed. Text: 'Leave'
+Mar 17 2023 05:32:34 PM: INFO: Navbar time icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar time text is correctly displayed. Text: 'Time'
+Mar 17 2023 05:32:34 PM: INFO: Navbar recruitment icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar recruitment text is correctly displayed. Text: 'Recruitment'
+Mar 17 2023 05:32:34 PM: INFO: Navbar my info icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar my info text is correctly displayed. Text: 'My Info'
+Mar 17 2023 05:32:34 PM: INFO: Navbar performance icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar performance text is correctly displayed. Text: 'Performance'
+Mar 17 2023 05:32:34 PM: INFO: Navbar dashboard icon is displayed, value: True
+Mar 17 2023 05:32:34 PM: INFO: Navbar dashboard text is correctly displayed. Text: 'Dashboard'
+Mar 17 2023 05:32:34 PM: INFO: Navbar directory icon is displayed, value: True
+Mar 17 2023 05:32:35 PM: INFO: Navbar directory text is correctly displayed. Text: 'Directory'
+Mar 17 2023 05:32:35 PM: INFO: Navbar maintenance icon is displayed, value: True
+Mar 17 2023 05:32:35 PM: INFO: Navbar maintenance text is correctly displayed. Text: 'Maintenance'
+Mar 17 2023 05:32:35 PM: INFO: Navbar buzz icon is displayed, value: True
+Mar 17 2023 05:32:35 PM: INFO: Navbar buzz text is correctly displayed. Text: 'Buzz'
+Mar 17 2023 05:32:35 PM: INFO: Navbar toggle is clicked
+Mar 17 2023 05:32:35 PM: INFO: Navbar logo is displayed, value: True
+Mar 17 2023 05:32:36 PM: INFO: xdist worker is: gw2
+Mar 17 2023 05:32:36 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:32:36 PM: INFO: xdist worker is: gw0
+Mar 17 2023 05:32:36 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:32:36 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+Mar 17 2023 05:32:36 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+Mar 17 2023 05:32:37 PM: INFO: xdist worker is: gw1
+Mar 17 2023 05:32:37 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:32:37 PM: INFO: Driver [C:\Users\amans\.wdm\gw2\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+Mar 17 2023 05:32:37 PM: INFO: Driver [C:\Users\amans\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+Mar 17 2023 05:32:37 PM: INFO: Get LATEST chromedriver version for google-chrome 111.0.5563
+Mar 17 2023 05:32:38 PM: INFO: Driver [C:\Users\amans\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+Mar 17 2023 05:32:39 PM: INFO: ************Test_003_Login_And_Logout************
+Mar 17 2023 05:32:39 PM: INFO: ************Verify Login and Logout************
+Mar 17 2023 05:32:39 PM: INFO: ************Test_001_Login_Page************
+Mar 17 2023 05:32:39 PM: INFO: ************Validate Logo and Title************
+Mar 17 2023 05:32:39 PM: INFO: ************Test_002_Incorrect_Login************
+Mar 17 2023 05:32:39 PM: INFO: ************Verify Incorrect Login************
+Mar 17 2023 05:33:12 PM: INFO: Set username field to 'testuser'
+Mar 17 2023 05:33:12 PM: INFO: Username field text is correctly displayed. Text: 'testuser'
+Mar 17 2023 05:33:12 PM: INFO: Set username field to '******'
+Mar 17 2023 05:33:12 PM: INFO: Username field text is correctly displayed. Text: '******'
+Mar 17 2023 05:33:12 PM: INFO: Set password field to '******
+Mar 17 2023 05:33:12 PM: INFO: Password field text is correctly displayed. Text: '******'
+Mar 17 2023 05:33:12 PM: INFO: Set password field to '******'
+Mar 17 2023 05:33:12 PM: INFO: Password field text is correctly displayed. Text: '******'
+Mar 17 2023 05:33:12 PM: INFO: Login button is clicked
+Mar 17 2023 05:33:12 PM: INFO: Login button is clicked
+Mar 17 2023 05:33:13 PM: INFO: Orange hrm image alt value is correct. Value: 'company-branding'
+Mar 17 2023 05:33:13 PM: INFO: Login header text is displayed correctly. Text: 'Login'
+Mar 17 2023 05:33:13 PM: INFO: Credentials section is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Username admin text is correctly displayed. Text: 'Username : Admin'
+Mar 17 2023 05:33:13 PM: INFO: Password admin123 text is correctly displayed. Text: 'Password : admin123'
+Mar 17 2023 05:33:13 PM: INFO: Username icon is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Username label text is correctly displayed. Text: 'Username'
+Mar 17 2023 05:33:13 PM: INFO: Username field is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Password icon is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Password label text is correctly displayed. Text: 'Password'
+Mar 17 2023 05:33:13 PM: INFO: Password field is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Login button is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Forgot your password text is correctly displayed. Text: 'Forgot your password?'
+Mar 17 2023 05:33:13 PM: INFO: Copyright section is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Linkedin icon is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Facebook icon is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Twitter icon is displayed, value: True
+Mar 17 2023 05:33:13 PM: INFO: Youtube icon is displayed, value: True
+Mar 17 2023 05:33:16 PM: INFO: Invalid credentials text is correctly displayed. Text: 'Invalid credentials'
+Mar 17 2023 05:33:16 PM: INFO: Username and Password fields are cleared!
+Mar 17 2023 05:33:16 PM: INFO: Set username field to '******'
+Mar 17 2023 05:33:16 PM: INFO: Username field text is correctly displayed. Text: '******'
+Mar 17 2023 05:33:17 PM: INFO: Set password field to 'testpassword'
+Mar 17 2023 05:33:17 PM: INFO: Password field text is correctly displayed. Text: 'testpassword'
+Mar 17 2023 05:33:17 PM: INFO: Login button is clicked
+Mar 17 2023 05:33:17 PM: INFO: Dashboard header text is correctly displayed. Text: 'Homepage'
+Mar 17 2023 05:33:17 PM: INFO: Profile section is displayed, value: True
+Mar 17 2023 05:33:17 PM: INFO: Profile pic is displayed, value: True
+Mar 17 2023 05:33:17 PM: INFO: Profile name is displayed, value: True
+Mar 17 2023 05:33:17 PM: INFO: Profile section is clicked
+Mar 17 2023 05:33:17 PM: INFO: Profile menu is displayed, value: True
+Mar 17 2023 05:33:17 PM: INFO: Menu about text is correctly displayed. Text: 'About'
+Mar 17 2023 05:33:17 PM: INFO: Menu support text is correctly displayed. Text: 'Support'
+Mar 17 2023 05:33:17 PM: INFO: Menu change password text is correctly displayed. Text: 'Change Password'
+Mar 17 2023 05:33:17 PM: INFO: Menu logout text is correctly displayed. Text: 'Logout'
+Mar 17 2023 05:33:19 PM: INFO: Invalid credentials text is correctly displayed. Text: 'Invalid credentials'
+Mar 17 2023 05:33:19 PM: INFO: Menu logout is clicked
+Mar 17 2023 05:33:19 PM: INFO: Login header text is displayed correctly. Text: 'Login'
+Mar 17 2023 05:33:24 PM: INFO: xdist worker is: gw0
+Mar 17 2023 05:33:24 PM: INFO: xdist worker is: gw2
+Mar 17 2023 05:33:24 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:33:24 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:33:24 PM: INFO: xdist worker is: gw1
+Mar 17 2023 05:33:24 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:33:25 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+Mar 17 2023 05:33:25 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+Mar 17 2023 05:33:25 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+Mar 17 2023 05:33:26 PM: INFO: Driver [C:\Users\amans\.wdm\gw0\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+Mar 17 2023 05:33:26 PM: INFO: Driver [C:\Users\amans\.wdm\gw1\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+Mar 17 2023 05:33:26 PM: INFO: Driver [C:\Users\amans\.wdm\gw2\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+Mar 17 2023 05:33:28 PM: INFO: ************Test_001_Dashboard_Header************
+Mar 17 2023 05:33:28 PM: INFO: ************Validate Dashboard Header************
+Mar 17 2023 05:33:30 PM: INFO: ************Test_002_Side_Navbar************
+Mar 17 2023 05:33:30 PM: INFO: ************Test_003_Dashboard_Page************
+Mar 17 2023 05:33:30 PM: INFO: ************Validate Side_Navbar************
+Mar 17 2023 05:33:30 PM: INFO: ************Validate Dashboard Page************
+Mar 17 2023 05:34:08 PM: INFO: Time at work text is correctly displayed. Text: 'Time at Work'
+Mar 17 2023 05:34:09 PM: INFO: My actions text is correctly displayed. Text: 'My Actions'
+Mar 17 2023 05:34:09 PM: INFO: Quick launch text is correctly displayed. Text: 'Quick Launch'
+Mar 17 2023 05:34:09 PM: INFO: Buzz latest posts text is correctly displayed. Text: 'Buzz Latest Posts'
+Mar 17 2023 05:34:09 PM: INFO: Employees on leave today text is correctly displayed. Text: 'Employees on Leave Today'
+Mar 17 2023 05:34:09 PM: INFO: Employees distribution by sub unit text is correctly displayed. Text: 'Employee Distribution by Sub Unit'
+Mar 17 2023 05:34:09 PM: INFO: Employees distribution by location text is correctly displayed. Text: 'Employee Distribution by Location'
+Mar 17 2023 05:34:09 PM: INFO: Side navbar is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar toggle is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar banner is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar search icon is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar search field is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar admin icon is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar admin text is correctly displayed. Text: 'Admin'
+Mar 17 2023 05:34:09 PM: INFO: Navbar pim icon is displayed, value: True
+Mar 17 2023 05:34:09 PM: INFO: Navbar pim text is correctly displayed. Text: 'PIM'
+Mar 17 2023 05:34:09 PM: INFO: Navbar leave icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar leave text is correctly displayed. Text: 'Leave'
+Mar 17 2023 05:34:10 PM: INFO: Navbar time icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar time text is correctly displayed. Text: 'Time'
+Mar 17 2023 05:34:10 PM: INFO: Navbar recruitment icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar recruitment text is correctly displayed. Text: 'Recruitment'
+Mar 17 2023 05:34:10 PM: INFO: Navbar my info icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar my info text is correctly displayed. Text: 'My Info'
+Mar 17 2023 05:34:10 PM: INFO: Navbar performance icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar performance text is correctly displayed. Text: 'Performance'
+Mar 17 2023 05:34:10 PM: INFO: Navbar dashboard icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar dashboard text is correctly displayed. Text: 'Dashboard'
+Mar 17 2023 05:34:10 PM: INFO: Navbar directory icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar directory text is correctly displayed. Text: 'Directory'
+Mar 17 2023 05:34:10 PM: INFO: Navbar maintenance icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar maintenance text is correctly displayed. Text: 'Maintenance'
+Mar 17 2023 05:34:10 PM: INFO: Navbar buzz icon is displayed, value: True
+Mar 17 2023 05:34:10 PM: INFO: Navbar buzz text is correctly displayed. Text: 'Buzz'
+Mar 17 2023 05:34:10 PM: INFO: Navbar toggle is clicked
+Mar 17 2023 05:34:10 PM: INFO: Navbar logo is displayed, value: True
+Mar 17 2023 05:34:11 PM: INFO: Dashboard header text is correctly displayed. Text: 'Homepage'
+Mar 17 2023 05:34:11 PM: INFO: Profile section is displayed, value: True
+Mar 17 2023 05:34:11 PM: INFO: Profile pic is displayed, value: True
+Mar 17 2023 05:34:11 PM: INFO: xdist worker is: gw2
+Mar 17 2023 05:34:11 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:34:11 PM: INFO: Profile name is displayed, value: True
+Mar 17 2023 05:34:11 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+Mar 17 2023 05:34:12 PM: INFO: Driver [C:\Users\amans\.wdm\gw2\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+Mar 17 2023 05:34:12 PM: INFO: xdist worker is: gw1
+Mar 17 2023 05:34:12 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:34:13 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+Mar 17 2023 05:34:13 PM: INFO: xdist worker is: gw0
+Mar 17 2023 05:34:13 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:34:13 PM: INFO: Get LATEST edgedriver version for 111.0.1661 Edge
+Mar 17 2023 05:34:13 PM: INFO: Driver [C:\Users\amans\.wdm\gw1\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+Mar 17 2023 05:34:14 PM: INFO: ************Test_003_Login_And_Logout************
+Mar 17 2023 05:34:14 PM: INFO: ************Verify Login and Logout************
+Mar 17 2023 05:34:14 PM: INFO: Driver [C:\Users\amans\.wdm\gw0\drivers\edgedriver\win64\111.0.1661\msedgedriver.exe] found in cache
+Mar 17 2023 05:34:17 PM: INFO: ************Test_002_Incorrect_Login************
+Mar 17 2023 05:34:17 PM: INFO: ************Verify Incorrect Login************
+Mar 17 2023 05:34:18 PM: INFO: ************Test_001_Login_Page************
+Mar 17 2023 05:34:18 PM: INFO: ************Validate Logo and Title************
+Mar 17 2023 05:34:36 PM: INFO: Set username field to '******'
+Mar 17 2023 05:34:36 PM: INFO: Username field text is correctly displayed. Text: '******'
+Mar 17 2023 05:34:36 PM: INFO: Set password field to '******'
+Mar 17 2023 05:34:36 PM: INFO: Password field text is correctly displayed. Text: '******'
+Mar 17 2023 05:34:36 PM: INFO: Login button is clicked
+Mar 17 2023 05:34:45 PM: INFO: Dashboard header text is correctly displayed. Text: 'Homepage'
+Mar 17 2023 05:34:45 PM: INFO: Profile section is displayed, value: True
+Mar 17 2023 05:34:45 PM: INFO: Profile pic is displayed, value: True
+Mar 17 2023 05:34:45 PM: INFO: Profile name is displayed, value: True
+Mar 17 2023 05:34:45 PM: INFO: Profile section is clicked
+Mar 17 2023 05:34:46 PM: INFO: Profile menu is displayed, value: True
+Mar 17 2023 05:34:46 PM: INFO: Menu about text is correctly displayed. Text: 'About'
+Mar 17 2023 05:34:46 PM: INFO: Menu support text is correctly displayed. Text: 'Support'
+Mar 17 2023 05:34:46 PM: INFO: Menu change password text is correctly displayed. Text: 'Change Password'
+Mar 17 2023 05:34:46 PM: INFO: Menu logout text is correctly displayed. Text: 'Logout'
+Mar 17 2023 05:34:47 PM: INFO: Orange hrm image alt value is correct. Value: 'company-branding'
+Mar 17 2023 05:34:47 PM: INFO: Login header text is displayed correctly. Text: 'Login'
+Mar 17 2023 05:34:47 PM: INFO: Credentials section is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Username admin text is correctly displayed. Text: 'Username : Admin'
+Mar 17 2023 05:34:47 PM: INFO: Password admin123 text is correctly displayed. Text: 'Password : admin123'
+Mar 17 2023 05:34:47 PM: INFO: Username icon is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Username label text is correctly displayed. Text: 'Username'
+Mar 17 2023 05:34:47 PM: INFO: Username field is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Password icon is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Password label text is correctly displayed. Text: 'Password'
+Mar 17 2023 05:34:47 PM: INFO: Password field is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Login button is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Forgot your password text is correctly displayed. Text: 'Forgot your password?'
+Mar 17 2023 05:34:47 PM: INFO: Copyright section is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Linkedin icon is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Facebook icon is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Twitter icon is displayed, value: True
+Mar 17 2023 05:34:47 PM: INFO: Youtube icon is displayed, value: True
+Mar 17 2023 05:34:48 PM: INFO: Set username field to 'testuser'
+Mar 17 2023 05:34:48 PM: INFO: Username field text is correctly displayed. Text: 'testuser'
+Mar 17 2023 05:34:48 PM: INFO: Set password field to '******
+Mar 17 2023 05:34:48 PM: INFO: Password field text is correctly displayed. Text: '******'
+Mar 17 2023 05:34:48 PM: INFO: Login button is clicked
+Mar 17 2023 05:34:50 PM: INFO: Menu logout is clicked
+Mar 17 2023 05:34:51 PM: INFO: Login header text is displayed correctly. Text: 'Login'
+Mar 17 2023 05:34:51 PM: INFO: Invalid credentials text is correctly displayed. Text: 'Invalid credentials'
+Mar 17 2023 05:34:51 PM: INFO: Username and Password fields are cleared!
+Mar 17 2023 05:34:51 PM: INFO: Set username field to '******'
+Mar 17 2023 05:34:51 PM: INFO: Username field text is correctly displayed. Text: '******'
+Mar 17 2023 05:34:51 PM: INFO: Set password field to 'testpassword'
+Mar 17 2023 05:34:51 PM: INFO: Password field text is correctly displayed. Text: 'testpassword'
+Mar 17 2023 05:34:51 PM: INFO: Login button is clicked
+Mar 17 2023 05:34:53 PM: INFO: Invalid credentials text is correctly displayed. Text: 'Invalid credentials'
+Mar 17 2023 05:34:57 PM: INFO: xdist worker is: gw0
+Mar 17 2023 05:34:57 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:34:57 PM: INFO: xdist worker is: gw1
+Mar 17 2023 05:34:57 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:34:57 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:34:58 PM: INFO: Get LATEST geckodriver version for 110.0 firefox
+Mar 17 2023 05:34:58 PM: INFO: Get LATEST geckodriver version for 110.0 firefox
+Mar 17 2023 05:34:58 PM: INFO: Get LATEST geckodriver version for 110.0 firefox
+Mar 17 2023 05:34:59 PM: INFO: Driver [C:\Users\amans\.wdm\gw0\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+Mar 17 2023 05:34:59 PM: INFO: Driver [C:\Users\amans\.wdm\gw2\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+Mar 17 2023 05:34:59 PM: INFO: Driver [C:\Users\amans\.wdm\gw1\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+Mar 17 2023 05:35:04 PM: INFO: ************Test_001_Dashboard_Header************
+Mar 17 2023 05:35:04 PM: INFO: ************Test_002_Side_Navbar************
+Mar 17 2023 05:35:04 PM: INFO: ************Validate Dashboard Header************
+Mar 17 2023 05:35:04 PM: INFO: ************Validate Side_Navbar************
+Mar 17 2023 05:35:04 PM: INFO: ************Test_003_Dashboard_Page************
+Mar 17 2023 05:35:04 PM: INFO: ************Validate Dashboard Page************
+Mar 17 2023 05:35:51 PM: INFO: Time at work text is correctly displayed. Text: 'Time at Work'
+Mar 17 2023 05:35:51 PM: INFO: My actions text is correctly displayed. Text: 'My Actions'
+Mar 17 2023 05:35:51 PM: INFO: Quick launch text is correctly displayed. Text: 'Quick Launch'
+Mar 17 2023 05:35:51 PM: INFO: Buzz latest posts text is correctly displayed. Text: 'Buzz Latest Posts'
+Mar 17 2023 05:35:51 PM: INFO: Employees on leave today text is correctly displayed. Text: 'Employees on Leave Today'
+Mar 17 2023 05:35:51 PM: INFO: Employees distribution by sub unit text is correctly displayed. Text: 'Employee Distribution by Sub Unit'
+Mar 17 2023 05:35:51 PM: INFO: Employees distribution by location text is correctly displayed. Text: 'Employee Distribution by Location'
+Mar 17 2023 05:35:51 PM: INFO: xdist worker is: gw2
+Mar 17 2023 05:35:51 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:35:52 PM: INFO: Dashboard header text is correctly displayed. Text: 'Homepage'
+Mar 17 2023 05:35:52 PM: INFO: Profile section is displayed, value: True
+Mar 17 2023 05:35:52 PM: INFO: Profile pic is displayed, value: True
+Mar 17 2023 05:35:52 PM: INFO: Profile name is displayed, value: True
+Mar 17 2023 05:35:52 PM: INFO: Get LATEST geckodriver version for 110.0 firefox
+Mar 17 2023 05:35:52 PM: INFO: xdist worker is: gw0
+Mar 17 2023 05:35:52 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:35:53 PM: INFO: Get LATEST geckodriver version for 110.0 firefox
+Mar 17 2023 05:35:53 PM: INFO: Driver [C:\Users\amans\.wdm\gw2\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+Mar 17 2023 05:35:53 PM: INFO: Side navbar is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar toggle is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar banner is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar search icon is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar search field is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar admin icon is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar admin text is correctly displayed. Text: 'Admin'
+Mar 17 2023 05:35:53 PM: INFO: Navbar pim icon is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar pim text is correctly displayed. Text: 'PIM'
+Mar 17 2023 05:35:53 PM: INFO: Navbar leave icon is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar leave text is correctly displayed. Text: 'Leave'
+Mar 17 2023 05:35:53 PM: INFO: Navbar time icon is displayed, value: True
+Mar 17 2023 05:35:53 PM: INFO: Navbar time text is correctly displayed. Text: 'Time'
+Mar 17 2023 05:35:53 PM: INFO: Navbar recruitment icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Navbar recruitment text is correctly displayed. Text: 'Recruitment'
+Mar 17 2023 05:35:54 PM: INFO: Navbar my info icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Navbar my info text is correctly displayed. Text: 'My Info'
+Mar 17 2023 05:35:54 PM: INFO: Navbar performance icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Navbar performance text is correctly displayed. Text: 'Performance'
+Mar 17 2023 05:35:54 PM: INFO: Navbar dashboard icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Navbar dashboard text is correctly displayed. Text: 'Dashboard'
+Mar 17 2023 05:35:54 PM: INFO: Navbar directory icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Driver [C:\Users\amans\.wdm\gw0\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+Mar 17 2023 05:35:54 PM: INFO: Navbar directory text is correctly displayed. Text: 'Directory'
+Mar 17 2023 05:35:54 PM: INFO: Navbar maintenance icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Navbar maintenance text is correctly displayed. Text: 'Maintenance'
+Mar 17 2023 05:35:54 PM: INFO: Navbar buzz icon is displayed, value: True
+Mar 17 2023 05:35:54 PM: INFO: Navbar buzz text is correctly displayed. Text: 'Buzz'
+Mar 17 2023 05:35:54 PM: INFO: Navbar toggle is clicked
+Mar 17 2023 05:35:54 PM: INFO: Navbar logo is displayed, value: True
+Mar 17 2023 05:35:55 PM: INFO: xdist worker is: gw1
+Mar 17 2023 05:35:55 PM: INFO: ====== WebDriver manager ======
+Mar 17 2023 05:35:55 PM: INFO: Get LATEST geckodriver version for 110.0 firefox
+Mar 17 2023 05:35:56 PM: INFO: Driver [C:\Users\amans\.wdm\gw1\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+Mar 17 2023 05:35:58 PM: INFO: ************Test_003_Login_And_Logout************
+Mar 17 2023 05:35:58 PM: INFO: ************Verify Login and Logout************
+Mar 17 2023 05:35:59 PM: INFO: ************Test_001_Login_Page************
+Mar 17 2023 05:35:59 PM: INFO: ************Validate Logo and Title************
+Mar 17 2023 05:36:01 PM: INFO: ************Test_002_Incorrect_Login************
+Mar 17 2023 05:36:01 PM: INFO: ************Verify Incorrect Login************
+Mar 17 2023 05:36:36 PM: INFO: Set username field to '******'
+Mar 17 2023 05:36:36 PM: INFO: Username field text is correctly displayed. Text: '******'
+Mar 17 2023 05:36:36 PM: INFO: Set password field to '******'
+Mar 17 2023 05:36:36 PM: INFO: Password field text is correctly displayed. Text: '******'
+Mar 17 2023 05:36:42 PM: INFO: Login button is clicked
+Mar 17 2023 05:36:44 PM: INFO: Orange hrm image alt value is correct. Value: 'company-branding'
+Mar 17 2023 05:36:44 PM: INFO: Login header text is displayed correctly. Text: 'Login'
+Mar 17 2023 05:36:44 PM: INFO: Credentials section is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Username admin text is correctly displayed. Text: 'Username : Admin'
+Mar 17 2023 05:36:44 PM: INFO: Password admin123 text is correctly displayed. Text: 'Password : admin123'
+Mar 17 2023 05:36:44 PM: INFO: Username icon is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Username label text is correctly displayed. Text: 'Username'
+Mar 17 2023 05:36:44 PM: INFO: Username field is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Password icon is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Password label text is correctly displayed. Text: 'Password'
+Mar 17 2023 05:36:44 PM: INFO: Password field is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Login button is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Forgot your password text is correctly displayed. Text: 'Forgot your password?'
+Mar 17 2023 05:36:44 PM: INFO: Copyright section is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Linkedin icon is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Facebook icon is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Twitter icon is displayed, value: True
+Mar 17 2023 05:36:44 PM: INFO: Youtube icon is displayed, value: True
+Mar 17 2023 05:36:45 PM: INFO: Set username field to 'testuser'
+Mar 17 2023 05:36:45 PM: INFO: Username field text is correctly displayed. Text: 'testuser'
+Mar 17 2023 05:36:45 PM: INFO: Set password field to '******
+Mar 17 2023 05:36:45 PM: INFO: Password field text is correctly displayed. Text: '******'
+Mar 17 2023 05:36:46 PM: INFO: Dashboard header text is correctly displayed. Text: 'Homepage'
+Mar 17 2023 05:36:46 PM: INFO: Profile section is displayed, value: True
+Mar 17 2023 05:36:46 PM: INFO: Profile pic is displayed, value: True
+Mar 17 2023 05:36:46 PM: INFO: Profile name is displayed, value: True
+Mar 17 2023 05:36:46 PM: INFO: Profile section is clicked
+Mar 17 2023 05:36:47 PM: INFO: Profile menu is displayed, value: True
+Mar 17 2023 05:36:47 PM: INFO: Menu about text is correctly displayed. Text: 'About'
+Mar 17 2023 05:36:47 PM: INFO: Menu support text is correctly displayed. Text: 'Support'
+Mar 17 2023 05:36:47 PM: INFO: Menu change password text is correctly displayed. Text: 'Change Password'
+Mar 17 2023 05:36:47 PM: INFO: Menu logout text is correctly displayed. Text: 'Logout'
+Mar 17 2023 05:36:52 PM: INFO: Menu logout is clicked
+Mar 17 2023 05:36:53 PM: INFO: Login header text is displayed correctly. Text: 'Login'
+Mar 17 2023 05:36:56 PM: INFO: Login button is clicked
+Mar 17 2023 05:36:56 PM: INFO: Invalid credentials text is correctly displayed. Text: 'Invalid credentials'
+Mar 17 2023 05:36:56 PM: INFO: Username and Password fields are cleared!
+Mar 17 2023 05:36:56 PM: INFO: Set username field to '******'
+Mar 17 2023 05:36:56 PM: INFO: Username field text is correctly displayed. Text: '******'
+Mar 17 2023 05:36:56 PM: INFO: Set password field to 'testpassword'
+Mar 17 2023 05:36:56 PM: INFO: Password field text is correctly displayed. Text: 'testpassword'
+Mar 17 2023 05:36:57 PM: INFO: Login button is clicked
+Mar 17 2023 05:36:58 PM: INFO: Invalid credentials text is correctly displayed. Text: 'Invalid credentials'
