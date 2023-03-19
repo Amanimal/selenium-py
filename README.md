@@ -22,7 +22,7 @@
 ## About The Project
 ![Software][software-screenshot]
 The project implements Selenium Python framework, using Page Object Model (POM) design pattern, in order to conduct UI and Functional (System) based testing
-on any test environment owned by our client. 
+on any client owned test environment. 
 
 Using this project, the QA team will be responsible for:
 
@@ -35,7 +35,7 @@ web application on Chrome, Edge, Firefox and Safari browsers.
 
 
 ### Built With
-The following frameworks/libraries are used to bootstrap this project.
+The following frameworks/languages/libraries are used to bootstrap this project.
 
 [![Selenium][Selenium]][Selenium-url] [![Python][Python]][Python-url] [![CSS][CSS]][CSS-url]
 
