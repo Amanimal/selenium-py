@@ -27,13 +27,3 @@ class ReadConfig:
     def get_user_password():
         password = config.get('Auth', 'password')
         return password
-
-    @staticmethod
-    def get_primary_bg():
-        primary_bg = config.get('Color', 'primary_bg')
-        return primary_bg
-
-    @staticmethod
-    def get_primary_fg():
-        primary_fg = config.get('Color', 'primary_fg')
-        return primary_fg

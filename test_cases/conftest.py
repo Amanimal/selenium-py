@@ -29,10 +29,6 @@ def setup(browser):
         driver = webdriver.Chrome(options=options, service=ChromeService(ChromeDriverManager().install()))
         # ------ Chrome ------
         # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-        # ------ Headless Docker ------
-        # chrome_options = webdriver.ChromeOptions()
-        # chrome_options.headless = True
-        # driver = webdriver.Remote(command_executor="127.0.0.1:4444", options=chrome_options)
     elif browser == 'edge':
         # ------ Headless Edge ------
         options = EdgeOptions()
