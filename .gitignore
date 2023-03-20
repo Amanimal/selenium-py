@@ -3,3 +3,5 @@ env
 .DS_STORE
 .pytest_cache
 geckodriver.log
+/logs
+/reports
