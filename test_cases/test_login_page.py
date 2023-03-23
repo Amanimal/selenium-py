@@ -177,60 +177,60 @@ class Test001LoginPage:
         self.login.enter_password_field_text(ReadConfig.get_user_password())
         self.logger.info("Set password field to '******'")
 
-        # tc-34
+        # tc-35
         assert self.login.get_password_field_text_value() == ReadConfig.get_user_password(), "Password field text is " \
                                                                                              "not displayed correctly "
         self.logger.info("Password field text is correctly displayed. Text: '******'")
 
-        # tc-35 -action
+        # tc-36 -action
         self.login.click_login_button()
         self.logger.info("Login button is clicked")
 
-        # tc-35
+        # tc-37
         assert self.home.get_dashboard_header_text() == "Dashboard", "Dashboard header text is not displayed correctly"
         self.logger.info("Dashboard header text is correctly displayed. Text: 'Homepage'")
 
-        # tc-36
+        # tc-38
         assert self.home.is_profile_section_displayed() is True, "Profile section is not displayed"
         self.logger.info("Profile section is displayed, value: True")
 
-        # tc-37
+        # tc-39
         assert self.home.is_profile_pic_displayed() is True, "Profile pic is not displayed"
         self.logger.info("Profile pic is displayed, value: True")
 
-        # tc-38
+        # tc-40
         assert self.home.is_profile_name_displayed() is True, "Profile name is not displayed"
         self.logger.info("Profile name is displayed, value: True")
 
-        # tc-38
+        # tc-41
         self.home.click_profile_section()
         self.logger.info("Profile section is clicked")
 
-        # tc-39
+        # tc-42
         assert self.home.is_profile_menu_displayed() is True, "Profile menu is not displayed"
         self.logger.info("Profile menu is displayed, value: True")
 
-        # tc-40
+        # tc-43
         assert self.home.get_menu_about_text() == "About", "Menu about text is not displayed correctly"
         self.logger.info("Menu about text is correctly displayed. Text: 'About'")
 
-        # tc-41
+        # tc-44
         assert self.home.get_menu_support_text() == "Support", "Menu support text is not displayed correctly"
         self.logger.info("Menu support text is correctly displayed. Text: 'Support'")
 
-        # tc-42
+        # tc-45
         assert self.home.get_menu_change_password_text() == "Change Password", "Menu change password text is not " \
                                                                                "displayed correctly"
         self.logger.info("Menu change password text is correctly displayed. Text: 'Change Password'")
 
-        # tc-43
+        # tc-46
         assert self.home.get_menu_logout_text() == "Logout", "Menu logout text is not displayed correctly"
         self.logger.info("Menu logout text is correctly displayed. Text: 'Logout'")
 
-        # tc-44 -action
+        # tc-47 -action
         self.home.click_menu_logout()
         self.logger.info("Menu logout is clicked")
 
-        # tc-44
+        # tc-48
         assert self.login.get_login_header_text() == "Login", "Login header text is not displayed correctly"
         self.logger.info("Login header text is displayed correctly. Text: 'Login'")
