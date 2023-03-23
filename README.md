@@ -16,7 +16,7 @@ web application on Chrome, Edge, Firefox and Safari browsers.
 ### Built With
 The following frameworks/languages/libraries are used to bootstrap this project.
 
-[![Selenium][Selenium]][Selenium-url] [![Python][Python]][Python-url] [![CSS][CSS]][CSS-url]
+[![Selenium][Selenium]][Selenium-url] [![Python][Python]][Python-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url]
 
 
 ## Getting Started
@@ -149,9 +149,11 @@ Happy Coding!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [software-screenshot]: images/software.png
-[Selenium]: https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium&logoColor=green
+[Selenium]: https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
-[Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[CSS]: https://img.shields.io/badge/css-000080?style=for-the-badge&logo=&logoColor=blue
+[CSS]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
+[HTML]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://www.w3schools.com/html/
