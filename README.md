@@ -50,7 +50,7 @@ Here gives you instructions on setting up your project locally.
 
 Use the information below to learn how to run this project. 
 
-#### Option 1: Open any file inside ```test_cases``` directory
+### Option 1: Open any file inside ```test_cases``` directory
 Lets take ```test_login_page.py``` as an example:
 
 1. Run each test: By clicking run ```▶``` beside a function name
@@ -122,7 +122,9 @@ Lets take ```test_login_page.py``` as an example:
    ...
    ````
 
-#### Option 2: Open the ```TestSuit.py``` file
+### Option 2: Run the Test Suite
+
+Using the ```TestSuit.py``` file,
 
 On Windows:
 
@@ -145,7 +147,8 @@ On macOS:
    ````
 This will run all tests inside ```test_cases``` directory, on all browsers specified.
 
-Happy Coding!
+### Happy Testing!
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [software-screenshot]: images/software.png
