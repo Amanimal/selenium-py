@@ -9,7 +9,6 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
-from webdriver_manager.opera import OperaDriverManager
 
 
 def pytest_addoption(parser):  # This will get the value to set up method
@@ -44,18 +43,6 @@ def setup(browser):
         driver = webdriver.Firefox(options=options, service=FirefoxService(GeckoDriverManager().install()))
         # ------ Firefox ------
         # driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
-    elif browser == 'opera':
-        # ------ Headless Opera ------
-        options = webdriver.ChromeOptions()
-        options.add_argument('allow-elevated-browser')
-        # options.add_experimental_option('w3c', True)
-        options.headless = True
-        driver = webdriver.Opera(executable_path=OperaDriverManager().install(), options=options)
-        # ------ Opera ------
-        # options = webdriver.ChromeOptions()
-        # options.add_argument('allow-elevated-browser')
-        # options.add_experimental_option('w3c', True)
-        # driver = webdriver.Opera(executable_path=OperaDriverManager().install(), options=options)
     elif browser == 'safari':
         # ------ Safari ------
         # to enable safari driver on the OS use the below command
