@@ -11,8 +11,9 @@ def date_format():
 
 
 if __name__ == '__main__':
-    # browsers = ["chrome", "edge", "firefox", 'safari']
-    browsers = ["chrome", "edge", "firefox"]
+    # browsers = ["chrome", "edge", "firefox", "opera", 'safari']
+    # browsers = ["chrome", "edge", "firefox", "opera"]
+    browsers = ["opera"]
 
     # test script directory
     test_dir = BASE_DIR / 'test_cases'
